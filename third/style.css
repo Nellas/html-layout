@@ -1,0 +1,51 @@
+.floatdiv {
+    height: 100px;
+    width: 100px;
+    float: left;
+    float: top;
+    margin-left: 30px;
+    margin-top: 13px;
+    background-color: #498DD9;
+}
+
+.div1 {
+    height: 125px;
+    width: 100%;
+    background-color: #D0CFD0;
+}
+
+.textdiv {
+    height: 300px;
+    width: 100%;
+    text-align: center;
+    font-size: 35px;
+    font-family: sans-serif;
+    color: grey;
+    padding: 35px 50px 35px 50px;
+    box-sizing: border-box;
+}
+
+.div3 {
+    height: 150px;
+    width: 100%;
+    background-color: #498DD9;
+}
+
+.div4 {
+    height: 150px;
+    width: 100%;
+    background-color: #4FDBBA;
+}
+
+.div5 {
+    height: 150px;
+    width: 100%;
+    background-color: #B1E082;
+}
+
+.div6 {
+    height: 150px;
+    width: 100%;
+    background-color: #EDDF1F;
+}
+
